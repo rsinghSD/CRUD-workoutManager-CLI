@@ -61,13 +61,7 @@ As a user, you can perform the following actions:
 Do people these days actually share their entire stack developing programs? I think it's nice to have in a documentation, just to let others know how I coded this program.
 
 ## Disclaimer
-**Typo Disclaimer**: *I understand that seeing 'Excercise' and 'Exercise' in the code base is a huge mistake I've made, its pretty unprofessional. I will fix this in the front-end, but the Console App will stay like this for now.*
+**Typo Disclaimer**: *I understand that seeing 'Excercise' and 'Exercise' in the code base is a huge mistake I've made, it's pretty unprofessional. I will fix this in the front-end, but the Console App will stay like this for now.*. 
 **AI Usage Disclaimer**: *AI was mostly used for help with complex parts such as serializing JSON, learning how Reflection works etc... aside from that, youtube videos, and Microsoft docs/GeeksForGeeks/W3Schools was used. Oh btw, ChatGPT created this cool bannner at the start of the page :)*
 
-nvm this shit is terrible, never ever let ai make a banner bro 💀
-<img width="855" height="543" alt="image" src="https://github.com/user-attachments/assets/baa28a92-8246-4e2f-a014-04ae378fb05d" />
 
-wait actually, who tf let cgpt5 cook!? ts is majestic af <img width="32" height="32" alt="your wifi sucks" src="https://github.com/user-attachments/assets/e942f8ae-b5a1-40fb-9d8a-b15af8c0260c" />
-
-
-<img width="700" height="1058" alt="yeah skill issue if you see this tuff" src="https://github.com/user-attachments/assets/afe68fc1-51a8-4174-b1fc-09ab49f34e79" />
